@@ -1,0 +1,20 @@
+{"logTime": "0610/184836", "correlationVector":"1liBk2VOf7o3+U/BZn8lYv.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"general01000008"}}
+{"logTime": "0610/184836", "correlationVector":"1liBk2VOf7o3+U/BZn8lYv","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=1liBk2VOf7o3+U/BZn8lYv}
+{"logTime": "0610/184836", "correlationVector":"1liBk2VOf7o3+U/BZn8lYv.2","action":"GetUpdates Response", "result":"Success", "context":Received 1 update(s). cV=1liBk2VOf7o3+U/BZn8lYv.0;server=general01000008;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0610/184842", "correlationVector":"p2lh0PovzWm15jVwr8lv7D","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}
+{"logTime": "0610/184842", "correlationVector":"T7BJ0OtjDvFOBPe+mSW40b","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=T7BJ0OtjDvFOBPe+mSW40b}
+{"logTime": "0610/184842", "correlationVector":"T7BJ0OtjDvFOBPe+mSW40b.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0300000W"}}
+{"logTime": "0610/184842", "correlationVector":"T7BJ0OtjDvFOBPe+mSW40b.2","action":"GetUpdates Response", "result":"Success", "context":Received 3 update(s). cV=T7BJ0OtjDvFOBPe+mSW40b.0;server=GENERAL0300000W;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0610/184842", "correlationVector":"GBQnyY3b3KPb/Baf/I9DvI","action":"Normal GetUpdate request", "result":"", "context":cV=GBQnyY3b3KPb/Baf/I9DvI
+Nudged types: Device Info, User Consents
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "0610/184842", "correlationVector":"GBQnyY3b3KPb/Baf/I9DvI.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0300000B"}}
+{"logTime": "0610/184842", "correlationVector":"GBQnyY3b3KPb/Baf/I9DvI.2","action":"GetUpdates Response", "result":"Success", "context":Received 0 update(s). cV=GBQnyY3b3KPb/Baf/I9DvI.0;server=GENERAL0300000B;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0610/184842", "correlationVector":"XfLUw3wRVMiPlbGXQ23bDH","action":"Commit Request", "result":"", "context":Item count: 2
+Contributing types: Device Info, User Consents}
+{"logTime": "0610/184843", "correlationVector":"XfLUw3wRVMiPlbGXQ23bDH.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000M"}}
+{"logTime": "0610/184843", "correlationVector":"XfLUw3wRVMiPlbGXQ23bDH.2","action":"Commit Response", "result":"Success", "context":Result: Success. cV=XfLUw3wRVMiPlbGXQ23bDH.0;server=GENERAL0100000M;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "0610/184843", "correlationVector":"UlHboKsf1QHZnCIEQw8jtA","action":"Normal GetUpdate request", "result":"", "context":cV=UlHboKsf1QHZnCIEQw8jtA
+Nudged types: Device Info}
+{"logTime": "0610/184843", "correlationVector":"UlHboKsf1QHZnCIEQw8jtA.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0300000U"}}
+{"logTime": "0610/184843", "correlationVector":"UlHboKsf1QHZnCIEQw8jtA.2","action":"GetUpdates Response", "result":"Success", "context":Received 1 update(s). cV=UlHboKsf1QHZnCIEQw8jtA.0;server=GENERAL0300000U;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}

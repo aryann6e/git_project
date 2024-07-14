@@ -1,0 +1,1 @@
+ C:\\Users\\iamar\\Desktop\\Drak_Docker\\Flutter\\try_app\\.dart_tool\\flutter_build\\b8a0759c099bd82a9b4d7cba7b67134e\\native_assets.yaml: 
